@@ -51,5 +51,4 @@ while num != 0:
 else:
     print("That letter doesn't appear in the word")
     print('You lost!')
-#print("Thanks for playing!")
-#print("We'll see how well you did in the next stage")
+
